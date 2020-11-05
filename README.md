@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, seja muito bem vindo(a)! 👋
 
 <!--
 **PauloVASousa23/PauloVASousa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Me chamo <strong>Paulo Victor</strong>, atuo como <strong>Web Developer Jr</strong>, tenho conhecimento em algumas linguagens, tanto back-end quanto fron-end.<br/><br/>
+
+✨ O aprendizado é continuo e sempre haverá um próximo nivel!<br/>
+👯 Precisa de um Help, esta com alguma duvida ou apenas quer conversar, manda uma mensagem la no linkedIn.<br/>
+📫 Contato do LinkedIn: https://www.linkedin.com/in/paulo-victor-69b455157/;<br/>
