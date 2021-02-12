@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Me chamo <strong>Paulo Victor</strong>, atuo como <strong>Web Developer Jr</strong>, tenho conhecimento em algumas linguagens, tanto back-end quanto fron-end.<br/><br/><br/>
+Me chamo <strong>Paulo Victor</strong>, atuo como <strong>Web Developer Jr</strong>, tenho conhecimento em algumas linguagens, tanto back-end quanto front-end.<br/><br/><br/>
 
 ✨ O aprendizado é continuo e sempre haverá um próximo nivel!<br/><br/>
 👯 Precisa de um Help, esta com alguma duvida ou apenas quer conversar, manda uma mensagem la no linkedIn.<br/><br/>
